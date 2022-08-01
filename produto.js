@@ -1,0 +1,13 @@
+let produtoJson = [
+    {id:1, name:'Produto 1', img:'images/img.png', price:20.19, sizes:['100g', '530g', '860g'], description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi suscipit mauris quis lectus tempus, quis ornare arcu maximus.'},
+    {id:2, name:'Produto 2', img:'images/img1.png', price:18.00, sizes:['320g', '530g', '860g'], description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi suscipit mauris quis lectus tempus, quis ornare arcu maximus.'},
+    {id:3, name:'Produto 3', img:'images/img2.png', price:17.45, sizes:['320g', '530g', '860g'], description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi suscipit mauris quis lectus tempus, quis ornare arcu maximus.'},
+    {id:4, name:'Produto 4', img:'images/img3.png', price:19.77, sizes:['320g', '530g', '860g'], description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi suscipit mauris quis lectus tempus, quis ornare arcu maximus.'},
+    {id:5, name:'Produto 5', img:'images/img4.png', price:21.43, sizes:['320g', '530g', '860g'], description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi suscipit mauris quis lectus tempus, quis ornare arcu maximus.'},
+    {id:6, name:'Produto 6', img:'images/img2.png', price:18.55, sizes:['320g', '530g', '860g'], description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi suscipit mauris quis lectus tempus, quis ornare arcu maximus.'},
+    {id:7, name:'Produto 7', img:'images/img.png', price:22.36, sizes:['320g', '530g', '860g'], description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi suscipit mauris quis lectus tempus, quis ornare arcu maximus.'},
+    {id:8, name:'Produto 8', img:'images/img4.png', price:22.36, sizes:['320g', '530g', '860g'], description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi suscipit mauris quis lectus tempus, quis ornare arcu maximus.'},
+    {id:9, name:'Produto 9', img:'images/img1.png', price:22.36, sizes:['320g', '530g', '860g'], description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi suscipit mauris quis lectus tempus, quis ornare arcu maximus.'},
+    {id:10, name:'Produto 9', img:'images/img3.png', price:22.36, sizes:['320g', '530g', '860g'], description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi suscipit mauris quis lectus tempus, quis ornare arcu maximus.'}
+    
+];
